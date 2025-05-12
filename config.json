@@ -1,0 +1,14 @@
+{
+  "token_bot": "MTMxODM4ODA5MDA3NDY5MzY1Mg.GVeidl.XAApvD4fB5Ce3bwkG8MjWmfag-syjZb3_BGveU",
+  "client_id": "1318388090074693652",
+  "servers": {
+    "1286477718480752762": {
+      "radio_url": "maher_al_meaqli",
+      "voice_channel_id": "1318013977762205847"
+    },
+    "987654321098765432": {
+      "radio_url": "https://Qurango.net/radio/ahmad_alajmy",
+      "voice_channel_id": null
+    }
+  }
+}

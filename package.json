@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that sends morning and evening adhkar and plays Quran radio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "@discordjs/voice": "^0.18.0",
+    "node-cron": "^3.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
